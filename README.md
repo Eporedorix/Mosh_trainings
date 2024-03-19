@@ -4,4 +4,8 @@ Mosh-trainings-list:
   - GIT
   - Docker
 
+Udemy-trainings-lis:
+  - Kubernetes-CKA
+  - AWS-practitioner
+  - Terraform
 
