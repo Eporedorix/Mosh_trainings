@@ -8,4 +8,5 @@ Udemy-trainings-lis:
   - Kubernetes-CKA
   - AWS-practitioner
   - Terraform
+  - Helm
 
